@@ -7,6 +7,7 @@
 *.obj
 *.elf
 *.axf
+*.bin
 
 # Linker output
 *.ilk
@@ -51,13 +52,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-*.bin
 /project/realtek_ameba1_va0_example/GCC-RELEASE/application
 /tools/arm-none-eabi-gcc
-build_info.h
+/build_info.h
 component/soc/realtek/8195a/misc/gcc_utility/target_NORMAL.axf
 project/realtek_ameba1_va0_example/GCC-RELEASE/fwsize.gdb
-component/soc/realtek/8195a/misc/gcc_utility/rtl_gdb_flash_write.txt
 component/soc/realtek/8195a/misc/gcc_utility/rtl_gdb_debug.txt
 component/soc/realtek/8195a/misc/gcc_utility/rtl_gdb_flash_write.txt
 component/soc/realtek/8195a/misc/gcc_utility/rtl_gdb_ramdebug.txt
